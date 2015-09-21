@@ -3,7 +3,7 @@ CakePHP 2
 /tmp/*
 /app/Config/core.php
 /app/Config/database.php
-/vendors/*
+/vendor/*
 /composer.phar
 
 # User specific & automatically generated files #
